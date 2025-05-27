@@ -1,4 +1,4 @@
-# movie-ratings-sql-project
+# Movie-ratings-sql-project
 A beginner SQL project analysing movie ratings and genres.
 
 ##  Questions Explored
