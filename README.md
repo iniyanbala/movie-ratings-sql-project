@@ -22,8 +22,7 @@ A beginner SQL project analysing movie ratings and genres.
 - Movie releases peaked in the early 2000s
 
 ##  Dataset
-
-[IMDb Movie Dataset on Kaggle](https://www.kaggle.com/datasets/PromptCloudHQ/imdb-data)
+Source: [IMDb Movie Dataset on Kaggle][https://www.kaggle.com/datasets/PromptCloudHQ/imdb-data]
 
 ##  Tools Used
 
