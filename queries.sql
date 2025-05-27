@@ -1,23 +1,23 @@
 -- Top 10 highest-rated movies
-SELECT title, rating
+SELECT Title, Rating
 FROM movies
-ORDER BY rating DESC
+ORDER BY Rating DESC
 LIMIT 10;
 
 -- Average rating by genre
-SELECT genre, AVG(rating) AS avg_rating
+SELECT Genre, AVG(Rating) AS avg_rating
 FROM movies
-GROUP BY genre
+GROUP BY Genre
 ORDER BY avg_rating DESC;
 
 -- Number of movies by genre
-SELECT genre, COUNT(*) AS movie_count
+SELECT Genre, COUNT(*) AS movie_count
 FROM movies
-GROUP BY genre
+GROUP BY Genre
 ORDER BY movie_count DESC;
 
 -- Movies released per year
-SELECT year, COUNT(*) AS release_count
+SELECT Year, COUNT(*) AS release_count
 FROM movies
-GROUP BY year
-ORDER BY year;
+GROUP BY Year
+ORDER BY Year;
