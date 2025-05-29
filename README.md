@@ -43,7 +43,7 @@ Example screenshots:
 ![Top 10 highest-rated movies](https://github.com/user-attachments/assets/7ce87eee-9381-497a-8711-8b0ab3eb2242)
 
 ### 2. Average Rating by Genre
-![Average rating by genre](https://github.com/user-attachments/assets/498e9078-f159-43a8-ab87-85d191125c3a)
+<img width="324" alt="Screenshot #2" src="https://github.com/user-attachments/assets/95dda6ec-aa48-48e5-8914-4f7376145676" />
 
 ### 3. Number of Movies by Genre
 ![Number of movies by genre](https://github.com/user-attachments/assets/f31da0f0-152f-4795-89c0-58a58469eed4)
