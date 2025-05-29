@@ -38,6 +38,19 @@ To demonstrate the queries working in practice, screenshots from the Kaggle note
 Example screenshots:
 - SQL queries and their results (e.g. top 10 rated movies)
 - Data loaded into SQLite
+ 
+### 1. Top 10 Highest-Rated Movies
+![Top 10 Highest-Rated Movies] (screenshots/Top%2010%20highest-rated%20movies.png)
+
+### 2. Number of Movies by Genre
+![Number of Movies by Genre] (screenshots/Number%20of%20movies%20by%20genre.png)
+
+### 3. Average Rating by Genre
+![Average Rating by Genre] (screenshots/Average%20rating%20by%20genre.png)
+
+### 4. Movies Released Per Year
+![Movies Released Per Year] (screenshots/Movies%20released%20per%20year.png)
+
 
 ##  Author
 
