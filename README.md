@@ -16,18 +16,28 @@ A beginner SQL project analysing movie ratings and genres.
 - LIMIT and subqueries
 
 ##  Key Insights
-
-- Drama and Documentary have the highest average ratings
-- Action is the most frequent genre in the top 100 rated movies
-- Movie releases peaked in the early 2000s
+- The Dark Knight is the highest rated movie
+- Movies with genre of Animation, Drama and Fantasy have the highest average ratings
+- AAction,Adventure,Sci-Fi is the most frequent genre in the top 100 rated movies
+- Movie releases have been increasing and 2016 has the highest movies released
 
 ##  Dataset
 Source: [IMDb Movie Dataset on Kaggle][https://www.kaggle.com/datasets/PromptCloudHQ/imdb-data]
+Dataset used: `IMDB-Movie-Data.csv` (from the *movie-ratings-imdb* folder)
 
 ##  Tools Used
 
-- SQL (Kaggle Notebook or local database)
+- SQL via Kaggle Notebook 
 - GitHub for documentation
+- Python with SQLite and Pandas
+
+## Screenshots
+
+To demonstrate the queries working in practice, screenshots from the Kaggle notebook are included in the `screenshots/` folder.
+
+Example screenshots:
+- SQL queries and their results (e.g. top 10 rated movies)
+- Data loaded into SQLite
 
 ##  Author
 
