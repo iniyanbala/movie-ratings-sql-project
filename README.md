@@ -40,16 +40,19 @@ Example screenshots:
 - Data loaded into SQLite
  
 ### 1. Top 10 Highest-Rated Movies
-![Top 10 Highest-Rated Movies] (screenshots/Top%2010%20highest-rated%20movies.png)
+![Top 10 highest-rated movies](https://github.com/user-attachments/assets/7ce87eee-9381-497a-8711-8b0ab3eb2242)
 
-### 2. Number of Movies by Genre
-![Number of Movies by Genre] (screenshots/Number%20of%20movies%20by%20genre.png)
 
-### 3. Average Rating by Genre
-![Average Rating by Genre] (screenshots/Average%20rating%20by%20genre.png)
+### 2. Average Rating by Genre
+![Average rating by genre](https://github.com/user-attachments/assets/498e9078-f159-43a8-ab87-85d191125c3a)
+
+
+### 3. Number of Movies by Genre
+![Number of movies by genre](https://github.com/user-attachments/assets/f31da0f0-152f-4795-89c0-58a58469eed4)
 
 ### 4. Movies Released Per Year
-![Movies Released Per Year] (screenshots/Movies%20released%20per%20year.png)
+![Movies released per year](https://github.com/user-attachments/assets/a4195f3f-fe82-4fef-a6e3-23a52c3b4e6f)
+0year.png)
 
 
 ##  Author
