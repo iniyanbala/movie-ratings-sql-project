@@ -36,8 +36,9 @@ Dataset used: `IMDB-Movie-Data.csv` (from the *movie-ratings-imdb* folder)
 To demonstrate the queries working in practice, screenshots from the Kaggle notebook are included in the `screenshots/` folder.
 
 Example screenshots:
-- SQL queries and their results (e.g. top 10 rated movies)
-- Data loaded into SQLite
+- SQL queries 
+- Results of the questions (e.g. top 10 rated movies)
+
  
 ### 1. Top 10 Highest-Rated Movies
 ![Top 10 highest-rated movies](https://github.com/user-attachments/assets/7ce87eee-9381-497a-8711-8b0ab3eb2242)
