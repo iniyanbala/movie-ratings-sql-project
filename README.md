@@ -22,6 +22,7 @@ A beginner SQL project analysing movie ratings and genres.
 
 ##  Dataset
 Source: [IMDb Movie Dataset on Kaggle][https://www.kaggle.com/datasets/PromptCloudHQ/imdb-data]
+
 Dataset used: `IMDB-Movie-Data.csv` (from the *movie-ratings-imdb* folder)
 
 ##  Tools Used
