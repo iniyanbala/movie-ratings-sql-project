@@ -10,15 +10,14 @@ A beginner SQL project analysing movie ratings and genres.
 
 ##  SQL Features Used
 
-- SELECT, WHERE, ORDER BY
+- SELECT, ORDER BY
 - GROUP BY and aggregate functions (AVG, COUNT)
-- CASE statements
-- LIMIT and subqueries
+- LIMIT 
 
 ##  Key Insights
 - The Dark Knight is the highest rated movie
 - Movies with genre of Animation, Drama and Fantasy have the highest average ratings
-- AAction,Adventure,Sci-Fi is the most frequent genre in the top 100 rated movies
+- Action,Adventure,Sci-Fi is the most frequent genre in the top 100 rated movies
 - Movie releases have been increasing and 2016 has the highest movies released
 
 ##  Dataset
